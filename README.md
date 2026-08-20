@@ -1,0 +1,4 @@
+C# 
+POO
+Functional
+Imperative
