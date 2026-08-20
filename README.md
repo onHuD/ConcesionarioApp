@@ -7,11 +7,6 @@ Imperative
 BD SQL2021 :
 
 REATE DATABASE ConcesionarioDB;
-
-
-USE ConcesionarioDB;
-
-
 CREATE TABLE Autos (
     Id INT IDENTITY(1,1) PRIMARY KEY,
     Marca NVARCHAR(50) NOT NULL,
