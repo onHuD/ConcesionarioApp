@@ -1,7 +1,7 @@
 Languages
 C# 
-POO
-Functional
+POO-
+Functional-
 Imperative
 
 BD SQL2021 :
